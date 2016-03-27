@@ -1,0 +1,9 @@
+.git
+
+doc
+
+.gitattributes
+.gitignore
+.travis.yml
+
+Dockerfile
